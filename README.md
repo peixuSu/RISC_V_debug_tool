@@ -40,3 +40,4 @@
         ├── crc_manager.py    # CRC计算管理
         └── crc_window.py     # CRC窗口界面
 ```
+# Integration_debug_tool
